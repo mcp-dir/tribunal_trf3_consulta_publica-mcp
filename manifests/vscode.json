@@ -1,0 +1,9 @@
+{
+  "_comment": "Cole em .vscode/mcp.json (workspace) OU Command Palette: 'MCP: Add Server' → HTTP → cole https://api.mcp.ai/p_tribunal_trf3_consulta_publica.",
+  "servers": {
+    "tribunal_trf3_consulta_publica": {
+      "type": "http",
+      "url": "https://api.mcp.ai/p_tribunal_trf3_consulta_publica"
+    }
+  }
+}

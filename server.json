@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.mcp-dir/tribunal_trf3_consulta_publica-mcp",
+  "title": "Tribunal TRF3: Consulta Pública",
+  "description": "Tribunal TRF3: Lookup Pública, official-source lookup. Platform-hosted, pay per query with prepaid c",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/mcp-dir/tribunal_trf3_consulta_publica-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.mcp.ai/p_tribunal_trf3_consulta_publica"
+    }
+  ]
+}
